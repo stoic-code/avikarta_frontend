@@ -1,0 +1,172 @@
+{
+  "insuranceCategories": [
+    {
+      "category": "Life Insurance Companies",
+      "companies": [
+        {
+          "id": 1,
+          "name": "Rastriya Jiban Beema Company Limited"
+        },
+        {
+          "id": 2,
+          "name": "National Life Insurance Company Limited"
+        },
+        {
+          "id": 3,
+          "name": "Nepal Life Insurance Company Limited"
+        },
+        {
+          "id": 4,
+          "name": "Life Insurance Corporation (Nepal) Limited"
+        },
+        {
+          "id": 5,
+          "name": "MetLife (ALICO)"
+        },
+        {
+          "id": 6,
+          "name": "SuryaJyoti Life Insurance Company Limited"
+        },
+        {
+          "id": 7,
+          "name": "Himalayan Life Insurance Limited"
+        },
+        {
+          "id": 8,
+          "name": "Asian Life Insurance Company Limited"
+        },
+        {
+          "id": 9,
+          "name": "IME Life Insurance Company Limited"
+        },
+        {
+          "id": 10,
+          "name": "Reliable Nepal Life Insurance Company Limited"
+        },
+        {
+          "id": 11,
+          "name": "Sanima Reliance Life Insurance Limited"
+        },
+        {
+          "id": 12,
+          "name": "Citizen Life Insurance Limited"
+        },
+        {
+          "id": 13,
+          "name": "Sun Nepal Life Insurance Company Limited"
+        },
+        {
+          "id": 14,
+          "name": "Prabhu Mahalaxmi Life Insurance Limited"
+        }
+      ]
+    },
+    {
+      "category": "Non-Life (General) Insurance Companies",
+      "companies": [
+        {
+          "id": 1,
+          "name": "Nepal Insurance Company Limited"
+        },
+        {
+          "id": 2,
+          "name": "The Oriental Insurance Company Limited"
+        },
+        {
+          "id": 3,
+          "name": "National Insurance Company Limited"
+        },
+        {
+          "id": 4,
+          "name": "Himalayan Everest Insurance Company Limited"
+        },
+        {
+          "id": 5,
+          "name": "United Ajod Insurance Company Limited"
+        },
+        {
+          "id": 6,
+          "name": "Neco Insurance Limited"
+        },
+        {
+          "id": 7,
+          "name": "Sagarmatha Lumbini Insurance Company Limited"
+        },
+        {
+          "id": 8,
+          "name": "Prabhu Insurance Limited"
+        },
+        {
+          "id": 9,
+          "name": "IGI Prudential Insurance Limited"
+        },
+        {
+          "id": 10,
+          "name": "Shikhar Insurance Company Limited"
+        },
+        {
+          "id": 11,
+          "name": "NLG Insurance Limited"
+        },
+        {
+          "id": 12,
+          "name": "Siddhartha Premier Insurance Limited"
+        },
+        {
+          "id": 13,
+          "name": "Rastriya Beema Company Limited"
+        },
+        {
+          "id": 14,
+          "name": "Sanima GIC Insurance Limited"
+        }
+      ]
+    },
+    {
+      "category": "Reinsurance Companies",
+      "companies": [
+        {
+          "id": 1,
+          "name": "Nepal Reinsurance Company Limited"
+        },
+        {
+          "id": 2,
+          "name": "Himalayan Reinsurance Company Limited"
+        }
+      ]
+    },
+    {
+      "category": "Micro Life Insurance Companies",
+      "companies": [
+        {
+          "id": 1,
+          "name": "Crest Micro Life Insurance Limited"
+        },
+        {
+          "id": 2,
+          "name": "Guardian Micro Life Insurance Limited"
+        },
+        {
+          "id": 3,
+          "name": "Liberty Micro Life Insurance Limited"
+        },
+        {
+          "id": 4,
+          "name": "Nepal Micro Insurance Company Limited"
+        },
+        {
+          "id": 5,
+          "name": "Protective Insurance Company Limited"
+        },
+        {
+          "id": 6,
+          "name": "Star Micro Insurance Company Limited"
+        },
+        {
+          "id": 7,
+          "name": "Trust Micro Insurance Company Limited"
+        }
+      ]
+    }
+  ]
+}
